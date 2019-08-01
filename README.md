@@ -4,7 +4,7 @@ Weighted Round-Robin written in Go
 
 #### 1.get
 ```bash
-go get github/chi-chu/round
+go get github.com/chi-chu/round
 ```
 
 #### 2.example
