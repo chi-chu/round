@@ -1,6 +1,6 @@
 # round
 
-Weighted Round-Robin written in Go
+Weighted Round-Robin written in Go （平滑权重轮询算法）
 
 #### 1.get
 ```bash
